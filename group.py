@@ -3,7 +3,7 @@ from groupy.api.groups import Groups
 from groupy.api.bots import Bots
 from groupy import session
 
-#*** infor found on https://dev.groupme.com/
+#*** info found on https://dev.groupme.com/
 
 group_id = '***'
 token = '***'
